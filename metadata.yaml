@@ -1,0 +1,27 @@
+_repo: The-Vicissitudes-of-Bessie-Fairfax_17086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Holme
+    alias: Parr, Harriet
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '7128'
+    url: http://www.gutenberg.org/2009/agents/7128
+description: ''
+gutenberg_issued: '2005-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+title: The Vicissitudes of Bessie Fairfax
+url: http://www.gutenberg.org/ebooks/17086
